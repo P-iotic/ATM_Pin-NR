@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ATMApp
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=pin
+comment2.target=boolean\ isValidPin(java.lang.String)
+comment3.params=scan
+comment3.target=void\ runMenu(java.util.Scanner)
+comment4.params=scan
+comment4.target=double\ readAmount(java.util.Scanner)
+comment5.params=ms
+comment5.target=void\ sleep(long)
+numComments=6
